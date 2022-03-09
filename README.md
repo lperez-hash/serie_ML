@@ -1,4 +1,4 @@
-### Proceso de despliegue Local(PRUEBAS)
+## Proceso de despliegue Local(PRUEBAS)
 
 1. Desde la carpeta raiz del proyecto ejecute el comando
 
