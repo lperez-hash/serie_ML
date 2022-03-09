@@ -2,7 +2,7 @@
 
 1. Desde la carpeta raiz del proyecto ejecute el comando
 
-canda create --name ENV_PRB --file requirements.txt
+conda create --name ENV_PRB --file requirements.txt
 
 2. Seleccione el ambiente creado
 
